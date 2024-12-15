@@ -1,0 +1,51 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Dec 15 15:13:15 2024
+# Process ID: 19615
+# Current directory: /home/it/Vivado_Projects/Arch/Lab1_Task1/src
+# Command line: vivado
+# Log file: /home/it/Vivado_Projects/Arch/Lab1_Task1/src/vivado.log
+# Journal file: /home/it/Vivado_Projects/Arch/Lab1_Task1/src/vivado.jou
+#-----------------------------------------------------------
+start_gui
+create_project Lab1_Task1_Vivado /home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado -part xc7a100tcsg324-1
+set_property board_part digilentinc.com:arty-a7-100:part0:1.1 [current_project]
+add_files {/home/it/Vivado_Projects/Arch/Lab1_Task1/src/register_file.sv /home/it/Vivado_Projects/Arch/Lab1_Task1/src/Top.sv /home/it/Vivado_Projects/Arch/Lab1_Task1/src/alu.sv /home/it/Vivado_Projects/Arch/Lab1_Task1/src/program_counter.sv /home/it/Vivado_Projects/Arch/Lab1_Task1/src/instruction_memory.sv}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_simulation
+source Top.tcl
+close_sim
+file mkdir /home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado/Lab1_Task1_Vivado.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open /home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado/Lab1_Task1_Vivado.srcs/sim_1/new/Top_tb.sv w ]
+add_files -fileset sim_1 /home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado/Lab1_Task1_Vivado.srcs/sim_1/new/Top_tb.sv
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+source Top_tb.tcl
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+source Top_tb.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run 200 ms
+close_sim

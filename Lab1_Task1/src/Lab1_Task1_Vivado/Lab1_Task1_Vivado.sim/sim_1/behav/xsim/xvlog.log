@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Vivado_Projects/Arch/Lab1_Task1/src/Top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Vivado_Projects/Arch/Lab1_Task1/src/alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Vivado_Projects/Arch/Lab1_Task1/src/instruction_memory.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_memory
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Vivado_Projects/Arch/Lab1_Task1/src/program_counter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module program_counter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Vivado_Projects/Arch/Lab1_Task1/src/register_file.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado/Lab1_Task1_Vivado.srcs/sim_1/new/Top_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_tb

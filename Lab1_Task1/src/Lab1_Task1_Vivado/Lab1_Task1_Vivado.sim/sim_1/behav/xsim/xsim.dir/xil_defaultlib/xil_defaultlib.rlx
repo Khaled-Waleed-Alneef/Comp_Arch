@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado/Lab1_Task1_Vivado.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado/Lab1_Task1_Vivado.srcs/sim_1/new/Top_tb.sv,1734266588,systemVerilog,,,,Top_tb,,,,,,,,
+/home/it/Vivado_Projects/Arch/Lab1_Task1/src/Top.sv,1734268248,systemVerilog,,/home/it/Vivado_Projects/Arch/Lab1_Task1/src/alu.sv,,Top,,,,,,,,
+/home/it/Vivado_Projects/Arch/Lab1_Task1/src/alu.sv,1734261123,systemVerilog,,/home/it/Vivado_Projects/Arch/Lab1_Task1/src/instruction_memory.sv,,alu,,,,,,,,
+/home/it/Vivado_Projects/Arch/Lab1_Task1/src/instruction_memory.sv,1734267338,systemVerilog,,/home/it/Vivado_Projects/Arch/Lab1_Task1/src/program_counter.sv,,instruction_memory,,,,,,,,
+/home/it/Vivado_Projects/Arch/Lab1_Task1/src/program_counter.sv,1734265987,systemVerilog,,/home/it/Vivado_Projects/Arch/Lab1_Task1/src/register_file.sv,,program_counter,,,,,,,,
+/home/it/Vivado_Projects/Arch/Lab1_Task1/src/register_file.sv,1734267351,systemVerilog,,/home/it/Vivado_Projects/Arch/Lab1_Task1/src/Lab1_Task1_Vivado/Lab1_Task1_Vivado.srcs/sim_1/new/Top_tb.sv,,register_file,,,,,,,,
